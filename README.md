@@ -4,7 +4,7 @@
 
 A Retrieval-Augmented Generation (RAG) system to answer Bangla and English questions from a PDF-based text corpus. 
 
-##Important note:
+## Important note:
 For readable pdf, use app.py. Otherwise use app_v3.py (GEMINI) or app_v4.py (OpenAI).
 
 ## Setup Guide
